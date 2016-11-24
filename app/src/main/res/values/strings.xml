@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">lalalaalalalal</string>
+    <string name="button_str">send</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
+
